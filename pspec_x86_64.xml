@@ -3,8 +3,8 @@
         <Name>residualvm</Name>
         <Homepage>https://www.residualvm.org/</Homepage>
         <Packager>
-            <Name>Alexander Vorobyev</Name>
-            <Email>avorobyev@protonmail.com</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@getsol.us</Email>
         </Packager>
         <License>BSD-3-Clause</License>
         <License>GPL-2.0-or-later</License>
@@ -68,12 +68,12 @@ ResidualVM utilizes OpenGL for 3D graphics hardware acceleration. A software ren
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2020-08-28</Date>
+        <Update release="2">
+            <Date>2021-06-30</Date>
             <Version>0.3.1</Version>
             <Comment>Packaging update</Comment>
-            <Name>Alexander Vorobyev</Name>
-            <Email>avorobyev@protonmail.com</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@getsol.us</Email>
         </Update>
     </History>
 </PISI>

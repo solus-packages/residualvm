@@ -1,6 +1,6 @@
 name       : residualvm
 version    : 0.3.1
-release    : 1
+release    : 2
 source     :
     - https://github.com/residualvm/residualvm/archive/0.3.1.tar.gz : 515b02129dd374bc9c0b732ddeaaaa3a342cc25ea0ea3c4ccf19141b5d362e1d
 license    :
